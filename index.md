@@ -1,16 +1,13 @@
-Wu Chi College of Black Belts Documents
-=======================================
+# Wu Chi Kung Fu Association College of Black Belts
+## Document Repository
 
-Meeting Agendas
----------------
+### Meeting Agendas
   * [November 18, 2017](https://wuchikungfu.github.io/agendas/Agenda-FallWinter2017.html)
 
-Meeting Minutes
----------------
+### Meeting Minutes
   * [November 18, 2017](https://wuchikungfu.github.io/minutes/Minutes-FallWinter2017.html) (UNAPPROVED)
 
-Resolutions
------------
+### Resolutions
 
 | Date First Discussed | Identifier       | Topic                                                    | Date Passed |
 | -------------------- | ---------------- | -------------------------------------------------------- | ----------- |
@@ -18,7 +15,6 @@ Resolutions
 | 11/18/2017           | [WCCBB-RES-2017-2](https://wuchikungfu.github.io/resolutions/Resolution-Define-Roles.html) | Amendment to More Clearly Define Roles of Executive Officers | 11/18/2017 |
 | 11/18/2017           | [WCCBB-RES-2017-3](https://wuchikungfu.github.io/resolutions/Resolution-Tournament-Rules.html) | Rules for the Ryan Carden Memorial Tournament | 11/18/2017 |
 
-Constitution and By-laws
-------------------------
+### Constitution and By-laws
   * Constitution and By-laws (Current Version): ([PDF](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws-Amended11182017.pdf)) ([ODT](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws.odt))
   * Constitution and By-laws (Amended 06/30/2012) ([PDF](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws-Amended06302012.pdf))
