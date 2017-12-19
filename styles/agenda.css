@@ -1,0 +1,28 @@
+@media screen {
+  ol {
+    list-style-type: upper-roman; }
+    ol li {
+      margin-top: 2em; }
+      ol li ol {
+        list-style-type: decimal; } }
+
+@media print {
+  .info-block {
+    display: table-row; }
+    .info-block label {
+      display: table-cell;
+      padding-left: 1em;
+      width: 25%; }
+    .info-block h3 {
+      display: table-cell;
+      width: 80%; }
+  hr {
+    clear: both;
+    margin-bottom: 1em;
+    margin-top: 1em; }
+  ol {
+    list-style-type: upper-roman; }
+    ol li {
+      margin-top: .25em; }
+      ol li ol {
+        list-style-type: decimal; } }

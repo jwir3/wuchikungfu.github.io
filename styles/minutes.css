@@ -1,0 +1,104 @@
+@media screen {
+  main {
+    margin: 0 2em; }
+  .title-info {
+    display: block;
+    text-align: center; }
+  h1 {
+    font-size: 28pt;
+    font-weight: bold;
+    margin: 1em 0 0; }
+  h2 {
+    font-size: 22pt;
+    font-weight: normal;
+    margin: 0; }
+  .date, .location {
+    font-size: 12pt; }
+  .date {
+    margin: 1em 0 0; }
+  .location {
+    margin: 0 0 1em; }
+  .info-block {
+    display: block;
+    text-align: left; }
+  .footnote {
+    font-size: 8pt;
+    margin-top: 1em; }
+  .attendance {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; }
+    .attendance .spacer-row {
+      height: 1em;
+      width: 100%; }
+    .attendance h3 {
+      width: 40%; }
+    .attendance div {
+      width: 55%; }
+  .timeline {
+    align-items: flex-start;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 1em; }
+    .timeline h3.section-title {
+      border-bottom: 1px solid #D5D5D5;
+      margin-bottom: 1em;
+      width: 100%; }
+    .timeline h3.subsection-title {
+      margin-bottom: 1em;
+      margin-left: .5em;
+      width: 100%; }
+    .timeline h4 {
+      font-weight: normal;
+      margin: 0 0 0 .75em;
+      width: 28%; }
+    .timeline div {
+      margin: 0 0 1em;
+      width: 70%; }
+    .timeline div.empty {
+      font-weight: normal;
+      margin: 0;
+      width: 30%; } }
+
+@media print {
+  main {
+    margin: 0 2em; }
+  .title-block {
+    text-align: center; }
+  h1 {
+    font-size: 28pt;
+    font-weight: bold;
+    margin: 1em 0 0; }
+  h2 {
+    font-size: 22pt;
+    font-weight: normal;
+    margin: 0; }
+  .date, .location {
+    font-size: 12pt; }
+  .date {
+    margin: 1em 0 0; }
+  .location {
+    margin: 0 0 1em; }
+  .info-block {
+    display: block;
+    text-align: left; }
+  .footnote {
+    font-size: 8pt;
+    margin-top: 1em; }
+  .attendance {
+    display: block; }
+    .attendance .spacer-row {
+      height: 1em;
+      width: 100%; }
+    .attendance h3 {
+      width: 80%; }
+    .attendance div {
+      width: 55%; }
+  .timeline {
+    margin-left: 1em;
+    margin-right: 1em; }
+    .timeline h4 {
+      font-weight: normal; }
+    .timeline .event-content {
+      padding-bottom: 1em; } }

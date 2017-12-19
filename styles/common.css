@@ -1,0 +1,106 @@
+@media screen {
+  body {
+    display: flex;
+    font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-variant: normal;
+    justify-content: space-between;
+    margin: 0;
+    width: 100%; }
+  .left-sidebar {
+    background-color: black;
+    background-image: url("../images/WuChiKanjiWhite.svg");
+    background-position: center 7em;
+    background-repeat: no-repeat;
+    background-size: 10em;
+    color: white;
+    flex-grow: 1;
+    font-family: Papyrus, fantasy;
+    font-size: 20pt;
+    font-variant: normal;
+    font-weight: bold;
+    min-height: 25em;
+    overflow-x: hidden;
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-top: 1em;
+    text-align: center;
+    width: 5%; }
+  label {
+    font-size: 20pt;
+    font-weight: bold;
+    min-width: 10em; }
+  .title-info {
+    display: flex;
+    justify-content: space-between; }
+  h1 {
+    font-size: 36pt; }
+  h2 {
+    font-size: 24pt; }
+  main {
+    flex-grow: 3;
+    margin: 0 1em 2em 1em;
+    width: 35em; }
+  .info-block {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; }
+    .info-block h3 {
+      margin: 0; }
+  .centered {
+    text-align: center; } }
+
+@media print {
+  @page {
+    margin: 1em 0em 4em 20%;
+    size: 8.5in 11in;
+    @bottom-center {
+      content: counter(page); }
+    @left-top {
+      background-color: black;
+      background-image: url("../images/WuChiKanjiWhite.svg");
+      background-position: center 10em;
+      background-repeat: no-repeat;
+      background-size: 10em;
+      content: "Wu Chi Kung Fu Association";
+      color: white;
+      font-family: Papyrus, fantasy;
+      font-size: 16pt;
+      font-variant: normal;
+      font-weight: bold;
+      margin-left: 2em;
+      min-height: 100%;
+      overflow-x: hidden;
+      padding-top: 1em;
+      text-align: center; } }
+  @page :first {
+    margin: 1em 2em 4em 20%; }
+  .title-info h1 {
+    float: left; }
+  .title-info h2 {
+    float: right;
+    margin-right: 2.5em; }
+  main div {
+    background-color: white;
+    margin-left: 1em; }
+  label {
+    font-size: 20pt;
+    font-weight: bold;
+    min-width: 10em; }
+  img {
+    margin: 5em 1em 1em -8em;
+    width: 18em; }
+  h1 {
+    font-size: 24pt; }
+  .left-sidebar {
+    display: none; }
+  .info-block {
+    clear: both;
+    margin-bottom: 1em; }
+    .info-block h3 {
+      margin-bottom: 0;
+      margin-right: 1em;
+      margin-top: 0; }
+  .centered {
+    text-align: center; } }
