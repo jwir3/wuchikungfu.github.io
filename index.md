@@ -11,6 +11,7 @@ Meeting Minutes
 
 Resolutions
 -----------
+
 | Date First Discussed | Identifier       | Topic                                                    | Date Passed |
 | -------------------- | ---------------- | -------------------------------------------------------- | ----------- |
 | 11/18/2017           | [WCCBB-RES-2017-1](https://wuchikungfu.github.io/resolutions/Resolution-Retire-CEI-Role.html) | Amendment to Retire the Title of Chief Executive Instructor in Favor of 'Chair' | N/A         |
