@@ -14,4 +14,5 @@ Resolutions
 
 Constitution and By-laws
 ------------------------
-  * [Constitution and By-laws Amended 06/30/2012](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws-Amended06302012.pdf)
+  * Constitution and By-laws (Current Version): ([PDF](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws-Amended11182017.pdf)) ([ODT](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws.odt))
+  * Constitution and By-laws (Amended 06/30/2012) ([PDF](https://wuchikungfu.github.io/constitution/ConstitutionAndByLaws-Amended06302012.pdf))
