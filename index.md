@@ -1,6 +1,3 @@
-# Wu Chi Kung Fu Association College of Black Belts
-## Document Repository
-
 ### Meeting Agendas
   * [November 18, 2017](https://wuchikungfu.github.io/agendas/Agenda-FallWinter2017.html)
 
