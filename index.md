@@ -7,6 +7,7 @@ Meeting Agendas
 
 Meeting Minutes
 ---------------
+  * [November 18, 2017](https://wuchikungfu.github.io/minutes/Minutes-FallWinter2017.html)
 
 Resolutions
 -----------
